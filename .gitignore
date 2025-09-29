@@ -1,0 +1,13 @@
+# node
+node_modules
+apps/web/node_modules
+apps/web/dist
+
+# go
+bin
+**/*.test
+*.exe
+*.out
+
+# tooling
+.air.toml
